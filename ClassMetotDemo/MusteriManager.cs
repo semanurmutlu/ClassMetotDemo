@@ -21,7 +21,7 @@ namespace ClassMetotDemo
         }
         public void Sil(Musteri musteri)
         {
-            Console.WriteLine("Müşteri silindi"+musteri.Id);
+            Console.WriteLine("Müşteri silinmiştir"+musteri.Id);
             
         }
         
